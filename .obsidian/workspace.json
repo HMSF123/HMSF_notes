@@ -12,8 +12,12 @@
             "id": "430938f42be6d1df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "组合数学基础.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "9c4e7e892f597eb1"
           }
@@ -28,8 +32,12 @@
             "id": "6792b942937ac057",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "组合数学基础.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "9c4e7e892f597eb1"
           }
@@ -107,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "组合数学基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "组合数学基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "组合数学基础.md"
+              }
             }
           }
         ],
@@ -165,23 +177,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2f7195a765589c5a",
+  "active": "430938f42be6d1df",
   "lastOpenFiles": [
+    "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
+    "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
+    "省选备战报告/省选备战报告 第十辑 题解链接合集.md",
+    "省选备战报告/2023联合省选 游寄.md",
+    "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
+    "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
+    "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
+    "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
+    "省选备战报告/省选备战报告 第零辑 块与根号平衡.md",
+    "9D616DDB.png",
     "多项式全家桶学习笔记（完善中）.md",
     "README.md",
     "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
-    "9D616DDB.png",
     "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
-    "省选备战报告/省选备战报告 第零辑 块与根号平衡.md",
-    "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
-    "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
-    "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
     "省选备战报告/省选备战报告 第七辑 奇奇怪怪构造.md",
-    "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
-    "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
-    "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
-    "省选备战报告/2023联合省选 游寄.md",
-    "省选备战报告/省选备战报告 第十辑 题解链接合集.md",
     "莫比乌斯反演相关的笔记整理.md",
     "生成函数学习笔记.md",
     "高端矩阵求逆，又名反演.md",
@@ -193,7 +205,6 @@
     "数数你的同分异构.md",
     "动态树学习笔记.md",
     "势能法分析时间复杂度.md",
-    "一些我认为改了会更好的符号.md",
     "未命名",
     "_resources/string_img0.png",
     "_resources",
