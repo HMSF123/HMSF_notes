@@ -1,11 +1,22 @@
----
-title: DWT，不过不是那个DWT
-updated: 2023-03-20 02:25:21Z
-created: 2023-03-18 13:35:33Z
-latitude: 36.70696200
-longitude: 119.16174900
-altitude: 0.0000
----
+# Part -2 二元生成函数
+
+呃，大概就是字面意思，一个二元生成函数用于生成一个含有两个参数的数列 $a_{i,j}$，形如
+
+$$
+f(x,y) = \sum_i\sum_j a_{i,j}x^iy^j
+$$
+
+当然，他也定义有卷积：
+
+$$
+[x^\mu y^\tau]f*g(x,y) = \sum_{i+j = \mu}\sum_{k+l = \tau} F_{i,k}G_{j,l}
+$$
+
+其中 
+
+计算这个卷积的时间是 $O(n^4)$，非常可怕！
+
+考虑能不能用FFT优化他。我们先来看看普通的一维FFT：
 
 # Part -1 张量
 
@@ -16,8 +27,10 @@ altitude: 0.0000
 两个张量的乘积定义为
 
 $$
-A_{i_1,i_2,\cdots,i_N}\times B_{i_1,i_2,\cdots,i_M} = C_{i_1,i_2,\cdots,i_{N+M}}
+A\times B = C\Leftrightarrow A_{i_1,i_2,\cdots,i_N}\times B_{i_1,i_2,\cdots,i_M} = C_{i_1,i_2,\cdots,i_{N+M}}
 $$
+
+简单来说就是把 $B$ “嵌套”在了 $A$ 中。
 
 # Part 0 分块矩阵与克罗内克积
 

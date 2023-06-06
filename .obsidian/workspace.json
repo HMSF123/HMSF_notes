@@ -1,37 +1,23 @@
 {
   "main": {
-    "id": "aaf3511f0ca1d80d",
+    "id": "4f05e6dc4623f2b9",
     "type": "split",
     "children": [
       {
-        "id": "f1527aa3b68d9438",
+        "id": "a49390689c5b4d31",
         "type": "tabs",
-        "dimension": 56.86157517899761,
         "children": [
           {
-            "id": "430938f42be6d1df",
+            "id": "21c533aae9743a4c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "group": "9c4e7e892f597eb1"
-          }
-        ]
-      },
-      {
-        "id": "21fbd1d94640b165",
-        "type": "tabs",
-        "dimension": 43.13842482100239,
-        "children": [
-          {
-            "id": "6792b942937ac057",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "group": "9c4e7e892f597eb1"
+              "type": "markdown",
+              "state": {
+                "file": "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -39,25 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1cb747e4d13e7740",
+    "id": "83fd809ec9220231",
     "type": "split",
     "children": [
       {
-        "id": "fff9570d4e73ed22",
+        "id": "85006aaf34a30e04",
         "type": "tabs",
         "children": [
           {
-            "id": "2f7195a765589c5a",
+            "id": "a5f9e0a2f78e4960",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "3bddcab64fc94a07",
+            "id": "d98906699c1a2161",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,15 +58,7 @@
             }
           },
           {
-            "id": "fe0510a7f0fb3295",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "77f9ab4414dc83d6",
+            "id": "0ce1390083166330",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,19 +72,20 @@
     "width": 200
   },
   "right": {
-    "id": "0113376023c6f088",
+    "id": "53cbb5a124fc311b",
     "type": "split",
     "children": [
       {
-        "id": "7a2a29d9ebd38705",
+        "id": "4386cb65ce15417a",
         "type": "tabs",
         "children": [
           {
-            "id": "e21c57faa2c2f8fb",
+            "id": "e7e16b0c22b734a2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,18 +97,19 @@
             }
           },
           {
-            "id": "a43550522ae208f8",
+            "id": "287c40eece32d5c2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8b3591a926d91d50",
+            "id": "059219089ba90a01",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,19 +120,20 @@
             }
           },
           {
-            "id": "768fc1ccf0c7b6a4",
+            "id": "1a10e4fdfd6e9479",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "省选备战报告/省选备战报告 第六辑 离线分治策略.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -165,41 +146,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "430938f42be6d1df",
+  "active": "21c533aae9743a4c",
   "lastOpenFiles": [
-    "组合数学基础.md",
-    "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
-    "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
-    "省选备战报告/省选备战报告 第十辑 题解链接合集.md",
-    "省选备战报告/2023联合省选 游寄.md",
-    "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
-    "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
-    "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
     "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
-    "省选备战报告/省选备战报告 第零辑 块与根号平衡.md",
-    "9D616DDB.png",
-    "多项式全家桶学习笔记（完善中）.md",
-    "README.md",
-    "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
-    "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
-    "省选备战报告/省选备战报告 第七辑 奇奇怪怪构造.md",
-    "莫比乌斯反演相关的笔记整理.md",
-    "生成函数学习笔记.md",
-    "高端矩阵求逆，又名反演.md",
-    "容容容容斥斥斥容容斥.md",
-    "yhy你怎么还不会后缀自动机啊.md",
-    "拉格朗日撅值法.md",
-    "数学期望的笔记整理.md",
-    "数数你的同分异构.md",
-    "动态树学习笔记.md",
-    "势能法分析时间复杂度.md",
-    "未命名",
-    "_resources/string_img0.png",
-    "_resources",
-    "这些东西真的有用吗",
-    "意识流笔记",
-    "文献渣翻",
-    "偷来的笔记",
-    "省选备战报告"
+    "省选备战报告/省选备战报告 第十辑 题解链接合集.md"
   ]
 }
