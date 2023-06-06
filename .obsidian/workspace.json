@@ -4,20 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f60bb95076c17aed",
+        "id": "f1527aa3b68d9438",
         "type": "tabs",
+        "dimension": 56.86157517899761,
         "children": [
           {
-            "id": "04b510bef61cf83b",
+            "id": "430938f42be6d1df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "省队集训笔记/Day7/模拟赛.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+              "type": "graph",
+              "state": {}
+            },
+            "group": "9c4e7e892f597eb1"
+          }
+        ]
+      },
+      {
+        "id": "21fbd1d94640b165",
+        "type": "tabs",
+        "dimension": 43.13842482100239,
+        "children": [
+          {
+            "id": "6792b942937ac057",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            },
+            "group": "9c4e7e892f597eb1"
           }
         ]
       }
@@ -38,7 +52,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -64,12 +78,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "77f9ab4414dc83d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0113376023c6f088",
@@ -85,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "省队集训笔记/Day7/模拟赛.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +123,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "省队集训笔记/Day7/模拟赛.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -124,16 +144,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "省队集训笔记/Day7/模拟赛.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -146,34 +165,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04b510bef61cf83b",
+  "active": "430938f42be6d1df",
   "lastOpenFiles": [
-    "最大流和最小割的关系.md",
-    "中国剩余定理学习笔记&例题.md",
-    "证明，全是证明.md",
-    "杂题笔记.md",
-    "一些需要记住的恒等式.md",
-    "斜率优化相关的笔记整理.md",
-    "小偷，背包，物品，价值.md",
-    "网络流建模.md",
-    "网络流笔记.md",
-    "图论什么的.md",
-    "思路卡住的地方&其解决方案.md",
+    "组合数学基础.md",
+    "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
+    "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
+    "省选备战报告/省选备战报告 第十辑 题解链接合集.md",
+    "省选备战报告/2023联合省选 游寄.md",
+    "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
+    "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
+    "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
+    "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
+    "省选备战报告/省选备战报告 第零辑 块与根号平衡.md",
+    "9D616DDB.png",
+    "多项式全家桶学习笔记（完善中）.md",
+    "README.md",
+    "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
+    "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
+    "省选备战报告/省选备战报告 第七辑 奇奇怪怪构造.md",
+    "莫比乌斯反演相关的笔记整理.md",
+    "生成函数学习笔记.md",
+    "高端矩阵求逆，又名反演.md",
+    "容容容容斥斥斥容容斥.md",
+    "yhy你怎么还不会后缀自动机啊.md",
+    "拉格朗日撅值法.md",
     "数学期望的笔记整理.md",
     "数数你的同分异构.md",
-    "生成函数学习笔记.md",
-    "筛法求素数.md",
-    "容容容容斥斥斥容容斥.md",
-    "欧拉函数学习笔记.md",
-    "莫比乌斯反演相关的笔记整理.md",
-    "拉格朗日撅值法.md",
-    "拉格朗日插值.md",
-    "快速傅里叶变换学习笔记.md",
-    "计算几何.md",
-    "高斯消元相关的笔记整理.md",
-    "高端矩阵求逆，又名反演.md",
-    "负权边是坏文明.md",
-    "多项式全家桶学习笔记（完善中）.md",
+    "动态树学习笔记.md",
+    "势能法分析时间复杂度.md",
+    "未命名",
+    "_resources/string_img0.png",
+    "_resources",
     "这些东西真的有用吗",
     "意识流笔记",
     "文献渣翻",
