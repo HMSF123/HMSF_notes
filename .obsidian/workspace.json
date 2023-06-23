@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省队集训笔记/2Day9/DP.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省队集训笔记/2Day9/DP.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省队集训笔记/2Day9/DP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省队集训笔记/2Day9/DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md"
+                "file": "省队集训笔记/2Day9/DP.md"
               }
             }
           }
@@ -168,26 +168,34 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5f9e0a2f78e4960",
+  "active": "21c533aae9743a4c",
   "lastOpenFiles": [
-    "不是从行列式开始的我不看.md",
-    "事已至此，先打表吧.md",
-    "高斯消元相关的笔记整理.md",
-    "筛法求素数.md",
-    "计算几何.md",
-    "Tarjan 算法的细节.md",
+    "容容容容斥斥斥容容斥.md",
     "数数笔记.md",
     "SPOJ GSS系列.md",
-    "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
-    "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
-    "省选备战报告/省选备战报告 第零辑 块与根号平衡.md",
-    "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
+    "Tarjan 算法的细节.md",
+    "计算几何.md",
+    "不是从行列式开始的我不看.md",
+    "筛法求素数.md",
+    "事已至此，先打表吧.md",
+    "多项式全家桶学习笔记（完善中）.md",
+    "yhy你怕不是连迪尼克都不会写了.md",
+    "yhy你怎么还不会后缀自动机啊.md",
     "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
+    "省选备战报告/省选备战报告 第七辑 奇奇怪怪构造.md",
     "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
     "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
+    "省选备战报告/省选备战报告 第零辑 块与根号平衡.md",
+    "省选备战报告/2023联合省选 游寄.md",
     "省选备战报告/省选备战报告 第十辑 题解链接合集.md",
-    "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
     "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
-    "容容容容斥斥斥容容斥.md"
+    "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
+    "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
+    "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
+    "省队集训笔记/2Day9/DP.md",
+    "省队集训笔记/Day3/下午讲题.md",
+    "省队集训笔记/Day3/模拟赛.md",
+    "省队集训笔记/2Day9",
+    "错题集.md"
   ]
 }
