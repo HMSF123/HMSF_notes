@@ -6,7 +6,7 @@
       {
         "id": "a49390689c5b4d31",
         "type": "tabs",
-        "dimension": 58.114558472553696,
+        "dimension": 55.01193317422435,
         "children": [
           {
             "id": "21c533aae9743a4c",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "省队集训笔记/2Day9/DP.md",
+                "file": "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "475fc6f46de2d321",
         "type": "tabs",
-        "dimension": 41.885441527446304,
+        "dimension": 44.98806682577565,
         "children": [
           {
             "id": "3b5f62ef54cf2135",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "省队集训笔记/2Day9/DP.md",
+                "file": "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
                 "mode": "preview",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 232.5
   },
   "right": {
     "id": "53cbb5a124fc311b",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "省队集训笔记/2Day9/DP.md",
+                "file": "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "省队集训笔记/2Day9/DP.md",
+                "file": "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "省队集训笔记/2Day9/DP.md"
+                "file": "省选备战报告/省选备战报告 第二辑 动态规划优化.md"
+              }
+            }
+          },
+          {
+            "id": "35aeb105842fbd44",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -170,32 +182,43 @@
   },
   "active": "21c533aae9743a4c",
   "lastOpenFiles": [
-    "容容容容斥斥斥容容斥.md",
-    "数数笔记.md",
-    "SPOJ GSS系列.md",
-    "Tarjan 算法的细节.md",
-    "计算几何.md",
-    "不是从行列式开始的我不看.md",
-    "筛法求素数.md",
-    "事已至此，先打表吧.md",
-    "多项式全家桶学习笔记（完善中）.md",
     "yhy你怕不是连迪尼克都不会写了.md",
-    "yhy你怎么还不会后缀自动机啊.md",
-    "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
-    "省选备战报告/省选备战报告 第七辑 奇奇怪怪构造.md",
+    "那些年震撼过我的DP状态设计.md",
     "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
-    "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
+    "img/DPimg4.png",
+    "杂题笔记.md",
+    "贪玩婪月.md",
+    "你在写什么东西啊.md",
+    "容容容容斥斥斥容容斥.md",
+    "势能法分析时间复杂度.md",
+    "img/DPimg3.png",
+    "img/DPimg2.png",
+    "img/DPimg1.png",
     "省选备战报告/省选备战报告 第零辑 块与根号平衡.md",
-    "省选备战报告/2023联合省选 游寄.md",
-    "省选备战报告/省选备战报告 第十辑 题解链接合集.md",
-    "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
-    "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
+    "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
     "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
+    "省选备战报告/省选备战报告 第十辑 复杂动态规划.md",
+    "图的连通性.md",
+    "最大流和最小割的关系.md",
+    "ZR乱做.md",
+    "一些均摊复杂度的数据结构.md",
+    "怎么天天降智.md",
+    "错题集.md",
+    "省选备战报告/2023联合省选 游寄.md",
+    "img/无标题.png",
+    "img",
+    "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
     "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
-    "省队集训笔记/2Day9/DP.md",
-    "省队集训笔记/Day3/下午讲题.md",
-    "省队集训笔记/Day3/模拟赛.md",
-    "省队集训笔记/2Day9",
-    "错题集.md"
+    "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
+    "省选备战报告/省选备战报告 第七辑 奇奇怪怪构造.md",
+    "省选备战报告/省选备战报告 第六辑 离线分治策略.md",
+    "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
+    "img/pic2.png",
+    "img/pic1.png",
+    "DF0D92A2.png",
+    "省队集训笔记/3Day1",
+    "91D724AD.png",
+    "5E6AFFE1.png",
+    "省队集训笔记/2Day9"
   ]
 }
