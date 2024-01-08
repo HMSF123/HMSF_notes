@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md",
+                "file": "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yhy你怎么还不会后缀自动机啊.md"
+                "file": "省选备战报告/省选备战报告 第八辑 组合计数相关.md"
               }
             }
           },
@@ -182,7 +182,13 @@
   },
   "active": "21c533aae9743a4c",
   "lastOpenFiles": [
+    "杂题笔记.md",
     "省选备战报告/省选备战报告 第八辑 组合计数相关.md",
+    "快速傅里叶变换学习笔记.md",
+    "yhy你怎么还不会后缀自动机啊.md",
+    "不是从行列式开始的我不看.md",
+    "插头DP.md",
+    "动态树学习笔记.md",
     "省选备战报告/省选备战报告 第十辑 复杂动态规划.md",
     "省选备战报告/省选备战报告 第二辑 动态规划优化.md",
     "省选备战报告/省选备战报告 第九辑 其他奇技淫巧.md",
@@ -193,7 +199,6 @@
     "容容容容斥斥斥容容斥.md",
     "一些需要记住的恒等式.md",
     "省选备战报告/省选备战报告 第五辑 神神秘秘数学.md",
-    "杂题笔记.md",
     "怎么天天降智.md",
     "错题集.md",
     "贪玩婪月.md",
@@ -203,12 +208,7 @@
     "省选备战报告/省选备战报告 第七辑 奇奇怪怪构造.md",
     "省选备战报告/省选备战报告 第一辑 对数数据结构.md",
     "省选备战报告/2023联合省选 游寄.md",
-    "省选备战报告/省选备战报告 第三辑 树形结构维护.md",
-    "省选备战报告/省选备战报告 第四辑 可可爱爱图论.md",
     "_resources/string_img0.png",
-    "你在写什么东西啊.md",
-    "ExGCD与同余方程.md",
-    "README.md",
     "img/pic1.png",
     "img/pic2.png",
     "img/无标题.png",
